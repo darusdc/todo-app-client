@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "task": "Learn Angular",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "task": "Learn React Native",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "task": "Learn NextJs",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "task": "Learn ORM",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
